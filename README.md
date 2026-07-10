@@ -57,7 +57,7 @@ The dataset includes the following fields:
 
 ## Files
 
-- 📊 **google_maps_UK.xlsx** – Sample extracted dataset
+- 📊 [google_maps_UK.xlsx](google_maps_UK.xlsx) – Sample dataset collected using a Python scraper.
 
 ---
 
